@@ -1,1 +1,1 @@
-# Panel-2nd-order-CD-SD-Tests
+# Panel-2nd-order-Dependence-Tests
